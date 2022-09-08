@@ -1,0 +1,14 @@
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.exe
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.deps.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.runtimeconfig.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.runtimeconfig.dev.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\bin\Debug\netcoreapp3.1\Threads_1.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Threads_1\Threads_1\obj\Debug\netcoreapp3.1\Threads_1.genruntimeconfig.cache
