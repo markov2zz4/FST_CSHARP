@@ -1,0 +1,14 @@
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.exe
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.deps.json
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.runtimeconfig.json
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.runtimeconfig.dev.json
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.dll
+G:\C#\PrioretyThreadsTest\bin\Debug\netcoreapp3.1\PrioretyThreadsTest.pdb
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.csproj.AssemblyReference.cache
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.AssemblyInfoInputs.cache
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.AssemblyInfo.cs
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.csproj.CoreCompileInputs.cache
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.dll
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.pdb
+G:\C#\PrioretyThreadsTest\obj\Debug\netcoreapp3.1\PrioretyThreadsTest.genruntimeconfig.cache
