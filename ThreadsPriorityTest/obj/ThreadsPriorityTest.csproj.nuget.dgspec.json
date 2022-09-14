@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj": {}
+    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj": {}
   },
   "projects": {
-    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj": {
+    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj",
-        "projectName": "Models",
-        "projectPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj",
+        "projectUniqueName": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj",
+        "projectName": "ThreadsPriorityTest",
+        "projectPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj",
         "packagesPath": "C:\\Users\\shpetai\\.nuget\\packages\\",
-        "outputPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\obj\\",
+        "outputPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

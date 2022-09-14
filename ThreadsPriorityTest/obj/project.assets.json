@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\ViewModelsViews\\ViewModelsViews.csproj",
-      "projectName": "ViewModelsViews",
-      "projectPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\ViewModelsViews\\ViewModelsViews.csproj",
+      "projectUniqueName": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj",
+      "projectName": "ThreadsPriorityTest",
+      "projectPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\ThreadsPriorityTest.csproj",
       "packagesPath": "C:\\Users\\shpetai\\.nuget\\packages\\",
-      "outputPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\ViewModelsViews\\obj\\",
+      "outputPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\ThreadsPriorityTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,9 +68,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WPF": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
