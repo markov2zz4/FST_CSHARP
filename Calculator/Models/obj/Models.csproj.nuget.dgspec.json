@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj": {}
+    "G:\\C#\\Calculator\\Models\\Models.csproj": {}
   },
   "projects": {
-    "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj": {
+    "G:\\C#\\Calculator\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj",
+        "projectUniqueName": "G:\\C#\\Calculator\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\shpetai\\.nuget\\packages\\",
-        "outputPath": "G:\\C# (Скопин)\\FST_CSHARP\\FST_CSHARP\\Calculator\\Models\\obj\\",
+        "projectPath": "G:\\C#\\Calculator\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\popovns\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\Calculator\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "\\\\iscsi\\profiles\\shpetai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "\\\\iscsi\\profiles\\popovns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
