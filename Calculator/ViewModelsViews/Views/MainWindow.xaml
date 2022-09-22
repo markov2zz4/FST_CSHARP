@@ -4,9 +4,15 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ViewModelsViews.Views"
+        xmlns:vm="clr-namespace:ViewModelsViews.ViewModels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-        
+        Title="MainWindow" Height="500" Width="500">
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+    
+    
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
@@ -14,17 +20,46 @@
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
+            
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.ColumnSpan="5"
-                   Text="{Binding Path=Display}"></TextBlock>
+        <Button Content="1" Grid.Row="2" Grid.Column="0" Style="{StaticResource DigitBtn}"/>
+        <Button Content="2" Grid.Row="2" Grid.Column="1" Style="{StaticResource DigitBtn}"/>
+        <Button Content="3" Grid.Row="2" Grid.Column="2" Style="{StaticResource DigitBtn}"/>
+        
+
+        <Button Content="4" Grid.Row="3" Grid.Column="0" Style="{StaticResource DigitBtn}"/>
+        <Button Content="5" Grid.Row="3" Grid.Column="1" Style="{StaticResource DigitBtn}"/>
+        <Button Content="6" Grid.Row="3" Grid.Column="2" Style="{StaticResource DigitBtn}"/>
+
+        <Button Content="7" Grid.Row="4" Grid.Column="0" Style="{StaticResource DigitBtn}"/>
+        <Button Content="8" Grid.Row="4" Grid.Column="1" Style="{StaticResource DigitBtn}"/>
+        <Button Content="9" Grid.Row="4" Grid.Column="2" Style="{StaticResource DigitBtn}"/>
+        <Button Content="0" Grid.Row="5" Grid.Column="1" Style="{StaticResource DigitBtn}"/>
+
+        <Button Content="+/-" Grid.Row="5" Grid.Column="0" Style="{StaticResource DigitBtn}"/>
+        <Button Content="," Grid.Row="5" Grid.Column="2" Style="{StaticResource DigitBtn}"/>
+
+        <Button Content="+" Grid.Row="2" Grid.Column="3" Style="{StaticResource DigitBtn}"/>
+        <Button Content="-" Grid.Row="3" Grid.Column="3" Style="{StaticResource DigitBtn}"/>
+        <Button Content="*" Grid.Row="4" Grid.Column="3" Style="{StaticResource DigitBtn}"/>
+        <Button Content="/" Grid.Row="5" Grid.Column="3" Style="{StaticResource DigitBtn}"/>
+
+
+        <Button Content="-=" Grid.Row="1" Grid.Column="3" Style="{StaticResource DigitBtn}"/>
+        <Button Content="=" Grid.Row="1" Grid.Column="4" Style="{StaticResource DigitBtn}"/>
+        
+        
+
+
     </Grid>
 </Window>
