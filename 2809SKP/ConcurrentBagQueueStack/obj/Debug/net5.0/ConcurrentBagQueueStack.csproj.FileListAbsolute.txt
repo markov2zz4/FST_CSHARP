@@ -1,0 +1,16 @@
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.exe
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.deps.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.runtimeconfig.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.runtimeconfig.dev.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ref\ConcurrentBagQueueStack.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\bin\Debug\net5.0\ConcurrentBagQueueStack.pdb
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.csproj.AssemblyReference.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.AssemblyInfoInputs.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.AssemblyInfo.cs
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ref\ConcurrentBagQueueStack.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.pdb
+\\iscsi\profiles\shpetai\Desktop\2809SKP\ConcurrentBagQueueStack\obj\Debug\net5.0\ConcurrentBagQueueStack.genruntimeconfig.cache
