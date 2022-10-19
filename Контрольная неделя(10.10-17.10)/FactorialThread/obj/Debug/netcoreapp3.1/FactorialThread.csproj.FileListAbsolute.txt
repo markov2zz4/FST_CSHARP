@@ -1,0 +1,14 @@
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.exe
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.deps.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.runtimeconfig.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.runtimeconfig.dev.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\bin\Debug\netcoreapp3.1\FactorialThread.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\FactorialThread\obj\Debug\netcoreapp3.1\FactorialThread.genruntimeconfig.cache

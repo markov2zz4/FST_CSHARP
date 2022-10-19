@@ -1,0 +1,13 @@
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.exe
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.deps.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.runtimeconfig.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.runtimeconfig.dev.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\bin\Debug\netcoreapp3.1\MonitorLock.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\MonitorLock\obj\Debug\netcoreapp3.1\MonitorLock.genruntimeconfig.cache

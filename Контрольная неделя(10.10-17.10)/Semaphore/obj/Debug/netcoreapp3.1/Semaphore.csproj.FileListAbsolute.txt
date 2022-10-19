@@ -1,0 +1,19 @@
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.exe
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.deps.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.runtimeconfig.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.runtimeconfig.dev.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\bin\Debug\netcoreapp3.1\Semaphore.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\Контрольная неделя(10.10-17.10)\Semaphore\obj\Debug\netcoreapp3.1\Semaphore.genruntimeconfig.cache
