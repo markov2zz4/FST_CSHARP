@@ -1,0 +1,28 @@
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.exe
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.deps.json
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.runtimeconfig.json
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.runtimeconfig.dev.json
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.dll
+G:\C#\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.pdb
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.csproj.AssemblyReference.cache
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.AssemblyInfoInputs.cache
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.AssemblyInfo.cs
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.csproj.CoreCompileInputs.cache
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.dll
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.pdb
+G:\C#\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.genruntimeconfig.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.exe
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.deps.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.runtimeconfig.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.runtimeconfig.dev.json
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\bin\Debug\netcoreapp3.1\Fucktorial.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.dll
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.pdb
+G:\C# (Скопин)\FST_CSHARP\FST_CSHARP\20_10_22\Fucktorial\obj\Debug\netcoreapp3.1\Fucktorial.genruntimeconfig.cache
