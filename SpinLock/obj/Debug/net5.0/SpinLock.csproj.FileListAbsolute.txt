@@ -1,0 +1,5 @@
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\SpinLock\obj\Debug\net5.0\SpinLock.csproj.AssemblyReference.cache
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\SpinLock\obj\Debug\net5.0\SpinLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\SpinLock\obj\Debug\net5.0\SpinLock.AssemblyInfoInputs.cache
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\SpinLock\obj\Debug\net5.0\SpinLock.AssemblyInfo.cs
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\SpinLock\obj\Debug\net5.0\SpinLock.csproj.CoreCompileInputs.cache
