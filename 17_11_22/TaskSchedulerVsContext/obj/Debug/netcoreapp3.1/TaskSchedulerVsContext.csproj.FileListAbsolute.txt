@@ -1,0 +1,14 @@
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.exe
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.deps.json
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.runtimeconfig.json
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.runtimeconfig.dev.json
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.dll
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\bin\Debug\netcoreapp3.1\TaskSchedulerVsContext.pdb
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.csproj.AssemblyReference.cache
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.AssemblyInfoInputs.cache
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.AssemblyInfo.cs
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.csproj.CoreCompileInputs.cache
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.dll
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.pdb
+D:\Work\Programming\csharp\FST_CSHARP\FST_CSHARP\17_11_22\TaskSchedulerVsContext\obj\Debug\netcoreapp3.1\TaskSchedulerVsContext.genruntimeconfig.cache

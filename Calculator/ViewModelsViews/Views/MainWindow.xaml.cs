@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using ViewModelsViews.ViewModels;
+using System.Globalization;
 
 namespace ViewModelsViews.Views
 {
@@ -21,7 +22,8 @@ namespace ViewModelsViews.Views
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainViewModel();
+            DataContext = new MainViewModel(new ErrorHandler());
+
         }
     }
 }

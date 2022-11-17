@@ -8,7 +8,6 @@
             <DoubleAnimation From="30" To="20" Duration="0:0:0.25" RepeatBehavior="1x" AutoReverse="True" Storyboard.TargetName="TB" Storyboard.TargetProperty="(Rectangle.Height)"/>
             <DoubleAnimation From="60" To="40" Duration="0:0:0.25" RepeatBehavior="1x" AutoReverse="True" Storyboard.TargetName="TB" Storyboard.TargetProperty="(Rectangle.Width)"/>
         </Storyboard>
-        
         <Style x:Key="DigitBtn"  TargetType="{x:Type Button}">
             <Setter Property="Focusable" Value="False"/>
             <Setter Property="FontSize" Value="14pt"/>
