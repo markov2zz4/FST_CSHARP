@@ -1,0 +1,16 @@
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.exe
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.deps.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.runtimeconfig.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.runtimeconfig.dev.json
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\ref\2809SKP.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\bin\Debug\net5.0\2809SKP.pdb
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.csproj.AssemblyReference.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.AssemblyInfoInputs.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.AssemblyInfo.cs
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\ref\2809SKP.dll
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.pdb
+\\iscsi\profiles\shpetai\Desktop\2809SKP\2809SKP\obj\Debug\net5.0\2809SKP.genruntimeconfig.cache

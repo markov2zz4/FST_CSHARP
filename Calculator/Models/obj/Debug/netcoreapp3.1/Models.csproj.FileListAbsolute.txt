@@ -8,3 +8,13 @@ G:\C#\Calculator\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
 G:\C#\Calculator\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 G:\C#\Calculator\Models\obj\Debug\netcoreapp3.1\Models.dll
 G:\C#\Calculator\Models\obj\Debug\netcoreapp3.1\Models.pdb
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\bin\Debug\netcoreapp3.1\Models.dll
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\bin\Debug\netcoreapp3.1\Models.pdb
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.dll
+G:\C# (Скопин)\FST_CSHARP\Calculator\Models\obj\Debug\netcoreapp3.1\Models.pdb

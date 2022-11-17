@@ -1,0 +1,14 @@
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.exe
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.deps.json
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.runtimeconfig.json
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.runtimeconfig.dev.json
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.dll
+G:\C#\TImer\bin\Debug\netcoreapp3.1\TImer.pdb
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.AssemblyInfoInputs.cache
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.AssemblyInfo.cs
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.csproj.CoreCompileInputs.cache
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.dll
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.pdb
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.genruntimeconfig.cache
+G:\C#\TImer\obj\Debug\netcoreapp3.1\TImer.csproj.AssemblyReference.cache

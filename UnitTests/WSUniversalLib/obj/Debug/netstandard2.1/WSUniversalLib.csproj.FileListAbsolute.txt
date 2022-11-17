@@ -1,0 +1,10 @@
+G:\C# (Скопин)\WSUniversalLib\bin\Debug\netstandard2.1\WSUniversalLib.deps.json
+G:\C# (Скопин)\WSUniversalLib\bin\Debug\netstandard2.1\WSUniversalLib.dll
+G:\C# (Скопин)\WSUniversalLib\bin\Debug\netstandard2.1\WSUniversalLib.pdb
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.csproj.AssemblyReference.cache
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.AssemblyInfoInputs.cache
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.AssemblyInfo.cs
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.dll
+G:\C# (Скопин)\WSUniversalLib\obj\Debug\netstandard2.1\WSUniversalLib.pdb
